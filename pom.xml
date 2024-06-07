@@ -38,6 +38,7 @@
     <module>model-providers/openai/openai-common</module>
     <module>model-providers/openai/openai-vanilla</module>
     <module>model-providers/openshift-ai</module>
+    <module>model-providers/ovh-ai</module>
     <module>model-providers/vertex-ai</module>
     <module>model-providers/vertex-ai-gemini</module>
     <module>model-providers/watsonx</module>
